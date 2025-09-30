@@ -209,7 +209,7 @@
     "validator": "^10.4.0",
     "warning": "4.0.1",
     "whatwg-fetch": "2.0.4",
-    "yup": "^0.26.6"
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "add-asset-html-webpack-plugin": "2.1.3",
